@@ -2,6 +2,11 @@ numpy
 pandas
 matplotlib
 seaborn
-scikit-learn
 scipy
+scikit-learn
 jupyter
+notebook
+plotly
+xgboost
+lightgbm
+optuna
