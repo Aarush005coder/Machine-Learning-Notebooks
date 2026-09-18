@@ -28,7 +28,7 @@ The repository will be continuously updated as new Machine Learning concepts are
 
 | #      | Algorithm / Topic          |  Files  |
 | ------ | -------------------------- | ------- |
-| **01** | Linear Regression          |  **0**  |
+| **01** | Linear Regression          |  **1**  |
 | **02** | Multiple Linear Regression |  **0**  |
 | **03** | Polynomial Regression      |  **0**  |
 | **04** | Logistic Regression        |  **2**  |
@@ -42,7 +42,7 @@ The repository will be continuously updated as new Machine Learning concepts are
 | **12** | PCA                        |  **0**  | 
 | **13** | Gradient Boosting          |  **0**  |
 | **14** | XGBoost                    |  **0**  |
-|        | **Total**                  |  **2**  |
+|        | **Total**                  |  **3**  |
 
 > **Progress is updated as new notebooks are added to the repository.**
 
