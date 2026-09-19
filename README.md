@@ -42,7 +42,8 @@ The repository will be continuously updated as new Machine Learning concepts are
 | **12** | PCA                        |  **0**  | 
 | **13** | Gradient Boosting          |  **0**  |
 | **14** | XGBoost                    |  **0**  |
-|        | **Total**                  |  **3**  |
+| **15** | DBSCAN                     |  **1**  |
+|        | **Total**                  |  **4**  |
 
 > **Progress is updated as new notebooks are added to the repository.**
 
@@ -107,6 +108,10 @@ Machine-Learning-Notebooks/
 │
 ├── 14_XGBoost/
 │   ├── XGBoost.ipynb
+│   └── README.md
+|
+├── 15_DBSCAN/
+│   ├── DBSCAN.ipynb
 │   └── README.md
 │
 ├── datasets/
