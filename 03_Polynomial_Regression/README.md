@@ -8,9 +8,9 @@ Unlike Simple Linear Regression, which fits a straight line, Polynomial Regressi
 
 ## 📚 Contents
 
-| Notebook                                | Description                                                                                |
-| --------------------------------------- | ------------------------------------------------------------------------------------------ |
-| `Polynomial_Regression_01_Basics.ipynb` | Complete implementation of Polynomial Regression from data preparation to model evaluation |
+| **#** | Notebook                                | Description                                                                                |
+|-------| --------------------------------------- | ------------------------------------------------------------------------------------------ |
+|   01  | `Polynomial_Regression_01_Basics.ipynb` | Complete implementation of Polynomial Regression from data preparation to model evaluation |
 
 ---
 
