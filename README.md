@@ -32,7 +32,7 @@ The repository will be continuously updated as new Machine Learning concepts are
 | **02** | Multiple Linear Regression |  **1**  |
 | **03** | Polynomial Regression      |  **1**  |
 | **04** | Logistic Regression        |  **2**  |
-| **05** | K-Nearest Neighbors        |  **0**  |
+| **05** | K-Nearest Neighbors        |  **1**  |
 | **06** | Decision Tree              |  **0**  |
 | **07** | Random Forest              |  **0**  | 
 | **08** | Support Vector Machine     |  **0**  |
@@ -43,7 +43,7 @@ The repository will be continuously updated as new Machine Learning concepts are
 | **13** | Gradient Boosting          |  **0**  |
 | **14** | XGBoost                    |  **0**  |
 | **15** | DBSCAN                     |  **1**  |
-|        | **Total**                  |  **6**  |
+|        | **Total**                  |  **7**  |
 
 > **Progress is updated as new notebooks are added to the repository.**
 
