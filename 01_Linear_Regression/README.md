@@ -369,68 +369,8 @@ Run the notebook cells sequentially and explore the generated:
 │
 ├── Linear_Regression_01_Basics.ipynb
 └── README.md
+
 ```
-
----
-
-## 📓 Notebook 01 — Linear Regression Basics
-
-### `Linear_Regression_01_Basics.ipynb`
-
-This notebook introduces the fundamental concepts of Linear Regression and demonstrates the complete workflow of building a regression model.
-
-### Topics Covered
-
-* **Introduction to Regression**
-* **Linear Regression**
-* **Simple Linear Regression**
-* **Independent Variable**
-* **Dependent Variable**
-* **Slope / Coefficient**
-* **Intercept**
-* **Regression Equation**
-* **Dataset Exploration**
-* **Data Visualization**
-* **Feature and Target Selection**
-* **Train-Test Split**
-* **Model Training**
-* **Predictions**
-* **Regression Line**
-* **Mean Absolute Error**
-* **Mean Squared Error**
-* **Root Mean Squared Error**
-* **R² Score**
-* **Residuals**
-* **Residual Analysis**
-* **Actual vs Predicted Values**
-
-### Workflow
-
-```text
-Dataset
-   ↓
-Data Exploration
-   ↓
-Data Visualization
-   ↓
-Feature & Target Selection
-   ↓
-Train-Test Split
-   ↓
-Linear Regression
-   ↓
-Model Training
-   ↓
-Predictions
-   ↓
-Evaluation Metrics
-   ↓
-Residual Analysis
-   ↓
-Interpretation
-```
-
----
 
 ## 🎯 Learning Objectives
 
